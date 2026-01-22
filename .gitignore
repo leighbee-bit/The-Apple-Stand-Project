@@ -1,0 +1,17 @@
+# Android
+.gradle/
+local.properties
+*.iml
+build/
+.idea/
+.cxx/
+
+# Spring Boot / Java
+target/
+*.class
+*.log
+.env
+
+# OS
+.DS_Store
+Thumbs.db
