@@ -77,7 +77,7 @@ Running the Whole Project
 
 Technologies
 ------------
-- Android (Java/Kotlin)
+- Android Studio (Java)
 - Spring Boot
 - REST API
 - MySQL / H2 (for demo)
